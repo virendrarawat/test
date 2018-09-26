@@ -1,0 +1,221 @@
+10:44:40.889 Watching directory: C:\i2iSimplifyAutomation\specs
+10:44:40.891 Found 2 files
+10:44:40.898 Initializing concepts cache with 0 concepts
+10:44:40.902 Initializing specs cache with 1 specs
+10:44:40.902 Adding specs from C:\i2iSimplifyAutomation\specs\Launchi2iApplication.spec
+10:44:40.902 Initializing steps cache with 1 steps
+10:44:40.902 Gauge daemon initialized and listening on port: 52350
+10:45:00.838 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Launch i2i Application." > 
+10:45:00.838 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Launch i2i Application." parameterizedStepValue:"Launch i2i Application." > > 
+16:33:50.032 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"L i2i Application." > 
+16:33:50.033 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"L i2i Application." parameterizedStepValue:"L i2i Application." > > 
+16:33:50.041 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"L i2i Application." > 
+16:33:50.041 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"L i2i Application." parameterizedStepValue:"L i2i Application." > > 
+16:33:51.442 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Lo i2i Application." > 
+16:33:51.443 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Lo i2i Application." parameterizedStepValue:"Lo i2i Application." > > 
+16:33:52.503 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login  i2i Application." > 
+16:33:52.504 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login  i2i Application." parameterizedStepValue:"Login  i2i Application." > > 
+16:33:52.915 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login to i2i Application." > 
+16:33:52.915 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login to i2i Application." parameterizedStepValue:"Login to i2i Application." > > 
+16:46:04.759 Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+16:46:04.760 Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Launch i2i Application." parameterizedStepValue:"Launch i2i Application." > > 
+16:46:04.765 Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+16:46:04.765 Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+16:46:08.152 Spec file removed: C:\i2iSimplifyAutomation\specs\Launchi2iApplication.spec
+16:46:08.153 Spec file added / modified: C:\i2iSimplifyAutomation\specs\Launchi2iApplication.spec
+09:54:30.694 Watching directory: C:\i2iSimplifyAutomation\specs
+09:54:30.696 Found 2 files
+09:54:30.702 Initializing concepts cache with 0 concepts
+09:54:30.707 Initializing specs cache with 1 specs
+09:54:30.707 Adding specs from C:\i2iSimplifyAutomation\specs\Launchi2iApplication.spec
+09:54:30.707 Initializing steps cache with 1 steps
+09:54:30.707 Gauge daemon initialized and listening on port: 57663
+09:54:52.269 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login to i2i Application." > 
+09:54:52.269 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login to i2i Application." parameterizedStepValue:"Login to i2i Application." > > 
+09:54:52.333 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Launch i2i Application." > 
+09:54:52.333 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Launch i2i Application." parameterizedStepValue:"Launch i2i Application." > > 
+11:49:08.963 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login to i2i Application" > 
+11:49:08.964 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login to i2i Application" parameterizedStepValue:"Login to i2i Application" > > 
+11:49:09.558 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login to i2i Application " > 
+11:49:09.558 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login to i2i Application" parameterizedStepValue:"Login to i2i Application" > > 
+11:49:09.566 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login to i2i Application " > 
+11:49:09.566 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login to i2i Application" parameterizedStepValue:"Login to i2i Application" > > 
+11:49:10.297 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login to i2i Application usi" > 
+11:49:10.297 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login to i2i Application usi" parameterizedStepValue:"Login to i2i Application usi" > > 
+11:49:10.852 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login to i2i Application using " > 
+11:49:10.852 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login to i2i Application using" parameterizedStepValue:"Login to i2i Application using" > > 
+11:49:10.852 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login to i2i Application using " > 
+11:49:10.852 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login to i2i Application using" parameterizedStepValue:"Login to i2i Application using" > > 
+11:49:11.509 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login to i2i Application using men" > 
+11:49:11.509 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login to i2i Application using men" parameterizedStepValue:"Login to i2i Application using men" > > 
+11:49:11.975 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login to i2i Application using menu" > 
+11:49:11.975 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login to i2i Application using menu" parameterizedStepValue:"Login to i2i Application using menu" > > 
+11:51:54.668 Spec file removed: C:\i2iSimplifyAutomation\specs\Launchi2iApplication.spec
+11:51:54.668 Spec file added / modified: C:\i2iSimplifyAutomation\specs\Launchi2iApplication.spec
+11:52:25.084 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login to i2i Application using menu." > 
+11:52:25.085 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login to i2i Application using menu." parameterizedStepValue:"Login to i2i Application using menu." > > 
+11:52:40.890 Spec file removed: C:\i2iSimplifyAutomation\specs\Launchi2iApplication.spec
+11:52:40.890 Spec file added / modified: C:\i2iSimplifyAutomation\specs\Launchi2iApplication.spec
+11:53:19.303 Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+11:53:19.303 Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Launch i2i Application." parameterizedStepValue:"Launch i2i Application." > allSteps:<stepValue:"Login to i2i Application." parameterizedStepValue:"Login to i2i Application." > allSteps:<stepValue:"Login to i2i Application using menu." parameterizedStepValue:"Login to i2i Application using menu." > > 
+11:53:19.306 Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+11:53:19.306 Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+11:55:04.359 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:55:04.360 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:55:04.371 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:55:04.372 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:55:04.374 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:55:04.374 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:55:04.391 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:55:04.391 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:55:04.391 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:55:04.392 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:55:04.448 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:55:04.449 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:55:04.449 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:55:04.449 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:55:04.503 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:55:04.503 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:55:04.504 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:55:04.504 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:55:04.547 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:55:04.547 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:55:04.548 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:55:04.548 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:55:04.591 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:55:04.591 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:55:04.592 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:55:04.593 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:55:04.632 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:55:04.632 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:55:04.633 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:55:04.633 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:55:04.670 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:55:04.670 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:55:04.670 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:55:04.670 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:55:04.704 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:55:04.704 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:55:04.705 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:55:04.705 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:55:05.044 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"/" > 
+11:55:05.044 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"/" parameterizedStepValue:"/" > > 
+11:55:05.182 Spec file removed: C:\i2iSimplifyAutomation\specs\Launchi2iApplication.spec
+11:55:05.183 Spec file added / modified: C:\i2iSimplifyAutomation\specs\Launchi2iApplication.spec
+11:55:15.531 Spec file removed: C:\i2iSimplifyAutomation\specs\Launchi2iApplication.spec
+11:55:15.532 Spec file added / modified: C:\i2iSimplifyAutomation\specs\Launchi2iApplication.spec
+15:53:52.877 Spec file removed: C:\i2iSimplifyAutomation\specs\Launchi2iApplication.spec
+15:53:52.878 Spec file added / modified: C:\i2iSimplifyAutomation\specs\Launchi2iApplication.spec
+14:47:45.983 Watching directory: C:\i2iSimplifyAutomation\specs
+14:47:45.985 Found 2 files
+14:47:46.003 Initializing concepts cache with 0 concepts
+14:47:46.005 Initializing specs cache with 1 specs
+14:47:46.005 Adding specs from C:\i2iSimplifyAutomation\specs\Launchi2iApplication.spec
+14:47:46.005 Initializing steps cache with 1 steps
+14:47:46.005 Gauge daemon initialized and listening on port: 51201
+14:48:01.878 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login to i2i Application." > 
+14:48:01.878 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login to i2i Application." parameterizedStepValue:"Login to i2i Application." > > 
+14:48:02.067 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Launch i2i Application." > 
+14:48:02.067 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Launch i2i Application." parameterizedStepValue:"Launch i2i Application." > > 
+11:00:30.659 Watching directory: C:\i2iSimplifyAutomation\specs
+11:00:30.659 Found 2 files
+11:00:30.671 Initializing concepts cache with 0 concepts
+11:00:30.674 Initializing specs cache with 1 specs
+11:00:30.675 Adding specs from C:\i2iSimplifyAutomation\specs\Launchi2iApplication.spec
+11:00:30.675 Initializing steps cache with 1 steps
+11:00:30.675 Gauge daemon initialized and listening on port: 53478
+11:00:49.013 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login to i2i Application." > 
+11:00:49.013 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login to i2i Application." parameterizedStepValue:"Login to i2i Application." > > 
+11:00:49.151 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Launch i2i Application." > 
+11:00:49.151 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Launch i2i Application." parameterizedStepValue:"Launch i2i Application." > > 
+11:04:29.498 Watching directory: C:\i2iSimplifyAutomation\specs
+11:04:29.498 Found 2 files
+11:04:29.503 Initializing concepts cache with 0 concepts
+11:04:29.504 Initializing specs cache with 1 specs
+11:04:29.504 Adding specs from C:\i2iSimplifyAutomation\specs\Launchi2iApplication.spec
+11:04:29.504 Initializing steps cache with 1 steps
+11:04:29.504 Gauge daemon initialized and listening on port: 54169
+11:45:08.171 Watching directory: C:\i2iSimplifyAutomation\specs
+11:45:08.173 Found 2 files
+11:45:08.195 Initializing concepts cache with 0 concepts
+11:45:08.197 Initializing specs cache with 1 specs
+11:45:08.197 Adding specs from C:\i2iSimplifyAutomation\specs\Launchi2iApplication.spec
+11:45:08.197 Initializing steps cache with 1 steps
+11:45:08.197 Gauge daemon initialized and listening on port: 60907
+17:09:07.028 Watching directory: C:\i2iSimplifyAutomation\specs
+17:09:07.029 Found 2 files
+17:09:07.050 Initializing concepts cache with 0 concepts
+17:09:07.056 Initializing specs cache with 1 specs
+17:09:07.056 Adding specs from C:\i2iSimplifyAutomation\specs\Launchi2iApplication.spec
+17:09:07.056 Initializing steps cache with 1 steps
+17:09:07.056 Gauge daemon initialized and listening on port: 54359
+14:52:22.785 Watching directory: C:\i2iSimplifyAutomation\specs
+14:52:22.786 Found 2 files
+14:52:22.802 Initializing concepts cache with 0 concepts
+14:52:22.804 Initializing specs cache with 1 specs
+14:52:22.804 Adding specs from C:\i2iSimplifyAutomation\specs\Launchi2iApplication.spec
+14:52:22.804 Initializing steps cache with 1 steps
+14:52:22.804 Gauge daemon initialized and listening on port: 65411
+15:00:00.911 Watching directory: C:\i2iSimplifyAutomation\specs
+15:00:00.914 Found 2 files
+15:00:00.935 Initializing concepts cache with 0 concepts
+15:00:00.937 Initializing specs cache with 1 specs
+15:00:00.937 Adding specs from C:\i2iSimplifyAutomation\specs\Launchi2iApplication.spec
+15:00:00.937 Initializing steps cache with 1 steps
+15:00:00.937 Gauge daemon initialized and listening on port: 49533
+15:02:33.182 Watching directory: C:\i2iSimplifyAutomation\specs
+15:02:33.184 Found 2 files
+15:02:33.208 Initializing concepts cache with 0 concepts
+15:02:33.212 Initializing specs cache with 1 specs
+15:02:33.213 Adding specs from C:\i2iSimplifyAutomation\specs\Launchi2iApplication.spec
+15:02:33.213 Initializing steps cache with 1 steps
+15:02:33.213 Gauge daemon initialized and listening on port: 49611
+15:03:49.501 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Launch i2i Application." > 
+15:03:49.502 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Launch i2i Application." parameterizedStepValue:"Launch i2i Application." > > 
+15:03:49.541 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login to i2i Application." > 
+15:03:49.541 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login to i2i Application." parameterizedStepValue:"Login to i2i Application." > > 
+15:03:49.857 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login to i2i Application using menu." > 
+15:03:49.857 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login to i2i Application using menu." parameterizedStepValue:"Login to i2i Application using menu." > > 
+15:13:21.891 Watching directory: C:\i2iSimplifyAutomation\specs
+15:13:21.892 Found 2 files
+15:13:21.913 Initializing concepts cache with 0 concepts
+15:13:21.917 Initializing specs cache with 1 specs
+15:13:21.917 Adding specs from C:\i2iSimplifyAutomation\specs\Launchi2iApplication.spec
+15:13:21.917 Initializing steps cache with 1 steps
+15:13:21.917 Gauge daemon initialized and listening on port: 49965
+15:14:03.081 Watching directory: C:\i2iSimplifyAutomation\specs
+15:14:03.082 Found 2 files
+15:14:03.092 Initializing concepts cache with 0 concepts
+15:14:03.094 Initializing specs cache with 1 specs
+15:14:03.094 Adding specs from C:\i2iSimplifyAutomation\specs\Launchi2iApplication.spec
+15:14:03.094 Initializing steps cache with 1 steps
+15:14:03.094 Gauge daemon initialized and listening on port: 50041
+15:34:20.905 Watching directory: C:\i2iSimplifyAutomation\specs
+15:34:20.906 Found 2 files
+15:34:20.910 Initializing concepts cache with 0 concepts
+15:34:20.911 Initializing specs cache with 1 specs
+15:34:20.911 Adding specs from C:\i2iSimplifyAutomation\specs\Launchi2iApplication.spec
+15:34:20.911 Initializing steps cache with 1 steps
+15:34:20.911 Gauge daemon initialized and listening on port: 61172
+15:45:47.632 Watching directory: C:\i2iSimplifyAutomation\specs
+15:45:47.633 Found 2 files
+15:45:47.643 Initializing concepts cache with 0 concepts
+15:45:47.644 Initializing specs cache with 1 specs
+15:45:47.644 Adding specs from C:\i2iSimplifyAutomation\specs\Launchi2iApplication.spec
+15:45:47.644 Initializing steps cache with 1 steps
+15:45:47.644 Gauge daemon initialized and listening on port: 61484
+15:51:32.632 Unable to send analytics data, Post https://www.google-analytics.com/collect: http: server gave HTTP response to HTTPS client
+15:51:32.634 Watching directory: C:\i2iSimplifyAutomation\specs
+15:51:32.634 Found 2 files
+15:51:32.640 Initializing concepts cache with 0 concepts
+15:51:32.641 Initializing specs cache with 1 specs
+15:51:32.641 Adding specs from C:\i2iSimplifyAutomation\specs\Launchi2iApplication.spec
+15:51:32.641 Initializing steps cache with 1 steps
+15:51:32.641 Gauge daemon initialized and listening on port: 61608
+16:40:04.854 Watching directory: C:\i2iSimplifyAutomation\specs
+16:40:04.855 Found 2 files
+16:40:04.866 Initializing concepts cache with 0 concepts
+16:40:04.869 Initializing specs cache with 1 specs
+16:40:04.869 Adding specs from C:\i2iSimplifyAutomation\specs\Launchi2iApplication.spec
+16:40:04.869 Initializing steps cache with 1 steps
+16:40:04.869 Gauge daemon initialized and listening on port: 60052

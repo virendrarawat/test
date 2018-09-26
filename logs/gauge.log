@@ -1,0 +1,734 @@
+15:27:12.856 Unable to send analytics data, timed out
+15:27:13.756 Plugin html-report is already installed.
+15:27:13.760 Plugin java is already installed.
+15:27:13.770 [ParseError] C:\i2iSimplifyAutomation\specs\Launchi2iApplication.spec:1 Spec should have atleast one scenario => ''
+15:27:15.327 Checking updates...
+15:27:16.856 [ValidationError] C:\i2iSimplifyAutomation\specs\Launchi2iApplication.spec:2 Step implementation not found => 'Launch i2i Application.'
+15:27:17.837 Plugin [Html Report] with pid [3044] has exited
+15:27:17.938 Specifications:	1 executed	0 passed	1 failed	0 skipped
+15:27:17.938 Scenarios:	0 executed	0 passed	0 failed	0 skipped
+15:27:17.938 
+Total time taken: 379ms
+15:30:53.441 Plugin java is already installed.
+15:30:53.470 Plugin html-report is already installed.
+15:30:54.688 Checking updates...
+15:30:56.311 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Launch i2i Application." > 
+15:30:56.311 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Launch i2i Application." parameterizedStepValue:"Launch i2i Application." > > 
+15:31:06.772 Plugin [Html Report] with pid [17320] has exited
+15:31:07.209 Specifications:	1 executed	1 passed	0 failed	0 skipped
+15:31:07.209 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+15:31:07.209 
+Total time taken: 10.277s
+15:33:36.511 Plugin java is already installed.
+15:33:36.513 Plugin html-report is already installed.
+15:33:37.939 Checking updates...
+15:33:39.614 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Launch i2i Application." > 
+15:33:39.614 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Launch i2i Application." parameterizedStepValue:"Launch i2i Application." > > 
+15:38:46.005 Plugin [Html Report] with pid [15296] has exited
+15:38:46.612 Specifications:	1 executed	0 passed	1 failed	0 skipped
+15:38:46.612 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+15:38:46.612 
+Total time taken: 5m6.233s
+16:27:45.847 Plugin java is already installed.
+16:27:45.857 Plugin html-report is already installed.
+16:27:47.693 Checking updates...
+16:27:49.211 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Launch i2i Application." > 
+16:27:49.211 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Launch i2i Application." parameterizedStepValue:"Launch i2i Application." > > 
+16:27:57.405 Plugin [Html Report] with pid [11944] has exited
+16:27:58.016 Specifications:	1 executed	0 passed	1 failed	0 skipped
+16:27:58.016 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+16:27:58.016 
+Total time taken: 7.879s
+10:48:46.920 Unable to send analytics data, timed out
+10:48:47.935 Unable to send analytics data, timed out
+10:48:47.949 Plugin java is already installed.
+10:48:47.954 Plugin html-report is already installed.
+10:48:49.643 Checking updates...
+10:48:51.070 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Launch i2i Application." > 
+10:48:51.070 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Launch i2i Application." parameterizedStepValue:"Launch i2i Application." > > 
+10:50:29.518 Plugin [Html Report] with pid [8696] has exited
+10:50:30.120 Specifications:	1 executed	1 passed	0 failed	0 skipped
+10:50:30.120 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+10:50:30.120 
+Total time taken: 1m38.185s
+10:51:47.500 Plugin java is already installed.
+10:51:47.502 Plugin html-report is already installed.
+10:51:48.773 Checking updates...
+10:51:50.512 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Launch i2i Application." > 
+10:51:50.512 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Launch i2i Application." parameterizedStepValue:"Launch i2i Application." > > 
+10:52:27.725 Plugin [Html Report] with pid [4360] has exited
+10:52:28.327 Specifications:	1 executed	1 passed	0 failed	0 skipped
+10:52:28.327 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+10:52:28.327 
+Total time taken: 37.063s
+10:54:06.557 Plugin java is already installed.
+10:54:06.559 Plugin html-report is already installed.
+10:54:08.290 Checking updates...
+10:54:10.137 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Launch i2i Application." > 
+10:54:10.137 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Launch i2i Application." parameterizedStepValue:"Launch i2i Application." > > 
+10:59:16.235 Plugin [Html Report] with pid [20328] has exited
+10:59:16.859 Specifications:	1 executed	0 passed	1 failed	0 skipped
+10:59:16.859 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+10:59:16.859 
+Total time taken: 5m5.94s
+11:00:31.695 Plugin java is already installed.
+11:00:31.696 Plugin html-report is already installed.
+11:00:33.422 Checking updates...
+11:00:34.816 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Launch i2i Application." > 
+11:00:34.816 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Launch i2i Application." parameterizedStepValue:"Launch i2i Application." > > 
+11:01:01.648 Plugin [Html Report] with pid [7492] has exited
+11:01:02.252 Specifications:	1 executed	1 passed	0 failed	0 skipped
+11:01:02.252 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+11:01:02.252 
+Total time taken: 26.655s
+11:20:27.331 Plugin java is already installed.
+11:20:27.332 Plugin html-report is already installed.
+11:20:30.698 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Launch i2i Application." > 
+11:20:30.698 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Launch i2i Application." parameterizedStepValue:"Launch i2i Application." > > 
+11:20:36.797 Checking updates...
+11:21:04.102 Plugin [Html Report] with pid [16368] has exited
+11:21:04.713 Specifications:	1 executed	1 passed	0 failed	0 skipped
+11:21:04.713 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+11:21:04.713 
+Total time taken: 33.206s
+11:56:38.286 Plugin java is already installed.
+11:56:38.290 Plugin html-report is already installed.
+11:56:40.000 Checking updates...
+11:56:41.338 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Launch i2i Application." > 
+11:56:41.338 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Launch i2i Application." parameterizedStepValue:"Launch i2i Application." > > 
+11:56:56.528 Plugin [Html Report] with pid [3688] has exited
+11:56:57.130 Specifications:	1 executed	1 passed	0 failed	0 skipped
+11:56:57.130 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+11:56:57.130 
+Total time taken: 15.035s
+11:58:13.724 Plugin java is already installed.
+11:58:13.736 Plugin html-report is already installed.
+11:58:15.029 Checking updates...
+11:58:17.089 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Launch i2i Application." > 
+11:58:17.090 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Launch i2i Application." parameterizedStepValue:"Launch i2i Application." > > 
+11:58:32.208 Plugin [Html Report] with pid [14972] has exited
+11:58:32.810 Specifications:	1 executed	1 passed	0 failed	0 skipped
+11:58:32.810 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+11:58:32.810 
+Total time taken: 14.946s
+16:38:59.680 Unable to send analytics data, timed out
+16:39:00.681 Unable to send analytics data, timed out
+16:39:00.686 Plugin java is already installed.
+16:39:00.700 Plugin html-report is already installed.
+16:39:02.259 Checking updates...
+16:39:05.205 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Launch i2i Application." > 
+16:39:05.205 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Launch i2i Application." parameterizedStepValue:"Launch i2i Application." > > 
+16:39:05.216 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login to i2i Application." > 
+16:39:05.216 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login to i2i Application." parameterizedStepValue:"Login to i2i Application." > > 
+16:39:19.398 Plugin [Html Report] with pid [22172] has exited
+16:39:19.907 Specifications:	1 executed	1 passed	0 failed	0 skipped
+16:39:19.907 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+16:39:19.907 
+Total time taken: 14.015s
+16:46:38.233 Unable to send analytics data, timed out
+16:46:39.234 Unable to send analytics data, timed out
+16:46:39.235 Plugin java is already installed.
+16:46:39.238 Plugin html-report is already installed.
+16:46:41.177 Checking updates...
+16:46:43.096 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Launch i2i Application." > 
+16:46:43.096 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Launch i2i Application." parameterizedStepValue:"Launch i2i Application." > > 
+16:46:43.107 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login to i2i Application." > 
+16:46:43.107 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login to i2i Application." parameterizedStepValue:"Login to i2i Application." > > 
+16:47:00.139 Plugin [Html Report] with pid [20676] has exited
+16:47:00.744 Specifications:	1 executed	0 passed	1 failed	0 skipped
+16:47:00.744 Scenarios:	2 executed	1 passed	1 failed	0 skipped
+16:47:00.744 
+Total time taken: 16.757s
+16:51:03.594 Plugin java is already installed.
+16:51:03.598 Plugin html-report is already installed.
+16:51:04.736 Checking updates...
+16:51:07.539 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Launch i2i Application." > 
+16:51:07.539 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Launch i2i Application." parameterizedStepValue:"Launch i2i Application." > > 
+16:51:07.550 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login to i2i Application." > 
+16:51:07.550 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login to i2i Application." parameterizedStepValue:"Login to i2i Application." > > 
+16:51:24.702 Plugin [Html Report] with pid [2352] has exited
+16:51:25.313 Specifications:	1 executed	0 passed	1 failed	0 skipped
+16:51:25.313 Scenarios:	2 executed	1 passed	1 failed	0 skipped
+16:51:25.313 
+Total time taken: 16.851s
+16:53:41.660 Unable to send analytics data, timed out
+16:53:41.893 Plugin java is already installed.
+16:53:41.894 Plugin html-report is already installed.
+16:53:43.409 Checking updates...
+16:53:45.907 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Launch i2i Application." > 
+16:53:45.908 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Launch i2i Application." parameterizedStepValue:"Launch i2i Application." > > 
+16:53:45.919 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login to i2i Application." > 
+16:53:45.920 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login to i2i Application." parameterizedStepValue:"Login to i2i Application." > > 
+16:54:01.594 Plugin [Html Report] with pid [19780] has exited
+16:54:02.208 Specifications:	1 executed	0 passed	1 failed	0 skipped
+16:54:02.208 Scenarios:	2 executed	1 passed	1 failed	0 skipped
+16:54:02.208 
+Total time taken: 15.406s
+10:28:52.155 Unable to send analytics data, timed out
+10:28:52.506 Plugin java is already installed.
+10:28:52.510 Plugin html-report is already installed.
+10:28:53.880 Checking updates...
+10:28:55.908 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Launch i2i Application." > 
+10:28:55.908 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Launch i2i Application." parameterizedStepValue:"Launch i2i Application." > > 
+10:28:55.921 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login to i2i Application." > 
+10:28:55.921 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login to i2i Application." parameterizedStepValue:"Login to i2i Application." > > 
+10:29:13.830 Plugin [Html Report] with pid [4836] has exited
+10:29:14.232 Specifications:	1 executed	1 passed	0 failed	0 skipped
+10:29:14.232 Scenarios:	2 executed	2 passed	0 failed	0 skipped
+10:29:14.232 
+Total time taken: 17.55s
+11:55:36.178 Plugin java is already installed.
+11:55:36.185 Plugin html-report is already installed.
+11:55:37.687 Checking updates...
+11:55:39.927 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login to i2i Application using menu." > 
+11:55:39.927 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login to i2i Application using menu." parameterizedStepValue:"Login to i2i Application using menu." > > 
+11:55:39.938 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Launch i2i Application." > 
+11:55:39.938 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Launch i2i Application." parameterizedStepValue:"Launch i2i Application." > > 
+11:55:39.939 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login to i2i Application." > 
+11:55:39.939 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login to i2i Application." parameterizedStepValue:"Login to i2i Application." > > 
+11:55:54.120 Plugin [Html Report] with pid [18272] has exited
+11:55:54.722 Specifications:	1 executed	0 passed	1 failed	0 skipped
+11:55:54.722 Scenarios:	2 executed	1 passed	1 failed	0 skipped
+11:55:54.722 
+Total time taken: 13.914s
+12:01:40.612 Plugin java is already installed.
+12:01:40.614 Plugin html-report is already installed.
+12:01:42.694 Checking updates...
+12:01:44.377 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login to i2i Application using menu." > 
+12:01:44.377 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login to i2i Application using menu." parameterizedStepValue:"Login to i2i Application using menu." > > 
+12:01:44.390 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Launch i2i Application." > 
+12:01:44.391 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Launch i2i Application." parameterizedStepValue:"Launch i2i Application." > > 
+12:01:44.391 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login to i2i Application." > 
+12:01:44.391 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login to i2i Application." parameterizedStepValue:"Login to i2i Application." > > 
+12:01:59.659 Plugin [Html Report] with pid [14248] has exited
+12:02:00.272 Specifications:	1 executed	0 passed	1 failed	0 skipped
+12:02:00.272 Scenarios:	2 executed	1 passed	1 failed	0 skipped
+12:02:00.272 
+Total time taken: 15.004s
+12:04:59.057 Plugin java is already installed.
+12:04:59.059 Plugin html-report is already installed.
+12:05:00.189 Checking updates...
+12:05:02.080 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login to i2i Application using menu." > 
+12:05:02.080 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login to i2i Application using menu." parameterizedStepValue:"Login to i2i Application using menu." > > 
+12:05:02.088 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Launch i2i Application." > 
+12:05:02.088 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Launch i2i Application." parameterizedStepValue:"Launch i2i Application." > > 
+12:05:02.088 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login to i2i Application." > 
+12:05:02.088 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login to i2i Application." parameterizedStepValue:"Login to i2i Application." > > 
+12:05:15.254 Plugin [Html Report] with pid [16268] has exited
+12:05:15.860 Specifications:	1 executed	0 passed	1 failed	0 skipped
+12:05:15.860 Scenarios:	2 executed	1 passed	1 failed	0 skipped
+12:05:15.860 
+Total time taken: 12.901s
+12:07:06.802 Plugin java is already installed.
+12:07:06.807 Plugin html-report is already installed.
+12:07:08.088 Checking updates...
+12:07:09.869 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login to i2i Application using menu." > 
+12:07:09.870 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login to i2i Application using menu." parameterizedStepValue:"Login to i2i Application using menu." > > 
+12:07:09.877 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Launch i2i Application." > 
+12:07:09.877 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Launch i2i Application." parameterizedStepValue:"Launch i2i Application." > > 
+12:07:09.878 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login to i2i Application." > 
+12:07:09.878 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login to i2i Application." parameterizedStepValue:"Login to i2i Application." > > 
+12:07:24.581 Plugin [Html Report] with pid [21444] has exited
+12:07:25.186 Specifications:	1 executed	0 passed	1 failed	0 skipped
+12:07:25.186 Scenarios:	2 executed	1 passed	1 failed	0 skipped
+12:07:25.186 
+Total time taken: 14.452s
+12:34:40.331 Plugin html-report is already installed.
+12:34:40.332 Plugin java is already installed.
+12:34:41.662 Checking updates...
+12:34:48.579 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login to i2i Application using menu." > 
+12:34:48.579 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login to i2i Application using menu." parameterizedStepValue:"Login to i2i Application using menu." > > 
+12:34:48.591 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Launch i2i Application." > 
+12:34:48.591 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Launch i2i Application." parameterizedStepValue:"Launch i2i Application." > > 
+12:34:48.592 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login to i2i Application." > 
+12:34:48.592 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login to i2i Application." parameterizedStepValue:"Login to i2i Application." > > 
+12:35:02.742 Plugin [Html Report] with pid [20088] has exited
+12:35:03.428 Specifications:	1 executed	0 passed	1 failed	0 skipped
+12:35:03.428 Scenarios:	2 executed	1 passed	1 failed	0 skipped
+12:35:03.428 
+Total time taken: 13.871s
+12:37:48.698 Plugin java is already installed.
+12:37:48.700 Plugin html-report is already installed.
+12:37:49.869 Checking updates...
+12:37:51.567 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login to i2i Application using menu." > 
+12:37:51.568 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login to i2i Application using menu." parameterizedStepValue:"Login to i2i Application using menu." > > 
+12:37:51.576 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Launch i2i Application." > 
+12:37:51.576 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Launch i2i Application." parameterizedStepValue:"Launch i2i Application." > > 
+12:37:51.576 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login to i2i Application." > 
+12:37:51.576 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login to i2i Application." parameterizedStepValue:"Login to i2i Application." > > 
+12:38:16.892 Plugin [Html Report] with pid [15848] has exited
+12:38:17.495 Specifications:	1 executed	0 passed	1 failed	0 skipped
+12:38:17.495 Scenarios:	2 executed	1 passed	1 failed	0 skipped
+12:38:17.495 
+Total time taken: 25.051s
+12:42:44.237 Plugin java is already installed.
+12:42:44.239 Plugin html-report is already installed.
+12:42:45.729 Checking updates...
+12:42:47.305 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login to i2i Application using menu." > 
+12:42:47.305 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login to i2i Application using menu." parameterizedStepValue:"Login to i2i Application using menu." > > 
+12:42:47.319 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Launch i2i Application." > 
+12:42:47.319 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Launch i2i Application." parameterizedStepValue:"Launch i2i Application." > > 
+12:42:47.320 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login to i2i Application." > 
+12:42:47.320 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login to i2i Application." parameterizedStepValue:"Login to i2i Application." > > 
+12:43:01.038 Plugin [Html Report] with pid [22512] has exited
+12:43:01.649 Specifications:	1 executed	0 passed	1 failed	0 skipped
+12:43:01.649 Scenarios:	2 executed	1 passed	1 failed	0 skipped
+12:43:01.649 
+Total time taken: 13.412s
+12:45:13.839 Plugin java is already installed.
+12:45:13.840 Plugin html-report is already installed.
+12:45:15.196 Checking updates...
+12:45:17.086 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login to i2i Application using menu." > 
+12:45:17.086 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login to i2i Application using menu." parameterizedStepValue:"Login to i2i Application using menu." > > 
+12:45:17.094 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Launch i2i Application." > 
+12:45:17.094 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Launch i2i Application." parameterizedStepValue:"Launch i2i Application." > > 
+12:45:17.094 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login to i2i Application." > 
+12:45:17.094 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login to i2i Application." parameterizedStepValue:"Login to i2i Application." > > 
+12:45:41.109 Plugin [Html Report] with pid [21872] has exited
+12:45:41.715 Specifications:	1 executed	0 passed	1 failed	0 skipped
+12:45:41.715 Scenarios:	2 executed	1 passed	1 failed	0 skipped
+12:45:41.715 
+Total time taken: 23.754s
+12:48:12.490 Plugin java is already installed.
+12:48:12.491 Plugin html-report is already installed.
+12:48:13.787 Checking updates...
+12:48:15.556 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login to i2i Application using menu." > 
+12:48:15.556 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login to i2i Application using menu." parameterizedStepValue:"Login to i2i Application using menu." > > 
+12:48:15.567 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Launch i2i Application." > 
+12:48:15.567 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Launch i2i Application." parameterizedStepValue:"Launch i2i Application." > > 
+12:48:15.567 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login to i2i Application." > 
+12:48:15.567 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login to i2i Application." parameterizedStepValue:"Login to i2i Application." > > 
+12:48:39.846 Plugin [Html Report] with pid [18148] has exited
+12:48:40.450 Specifications:	1 executed	0 passed	1 failed	0 skipped
+12:48:40.450 Scenarios:	2 executed	1 passed	1 failed	0 skipped
+12:48:40.450 
+Total time taken: 24.003s
+15:39:59.364 Plugin java is already installed.
+15:39:59.371 Plugin html-report is already installed.
+15:40:00.684 Checking updates...
+15:40:02.168 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login to i2i Application using menu." > 
+15:40:02.168 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login to i2i Application using menu." parameterizedStepValue:"Login to i2i Application using menu." > > 
+15:40:02.176 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Launch i2i Application." > 
+15:40:02.176 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Launch i2i Application." parameterizedStepValue:"Launch i2i Application." > > 
+15:40:02.176 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login to i2i Application." > 
+15:40:02.176 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login to i2i Application." parameterizedStepValue:"Login to i2i Application." > > 
+15:40:25.305 Plugin [Html Report] with pid [5308] has exited
+15:40:25.909 Specifications:	1 executed	0 passed	1 failed	0 skipped
+15:40:25.909 Scenarios:	2 executed	1 passed	1 failed	0 skipped
+15:40:25.909 
+Total time taken: 22.776s
+15:43:44.591 Plugin java is already installed.
+15:43:44.592 Plugin html-report is already installed.
+15:43:45.692 Checking updates...
+15:43:47.446 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login to i2i Application using menu." > 
+15:43:47.446 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login to i2i Application using menu." parameterizedStepValue:"Login to i2i Application using menu." > > 
+15:43:47.459 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Launch i2i Application." > 
+15:43:47.459 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Launch i2i Application." parameterizedStepValue:"Launch i2i Application." > > 
+15:43:47.460 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login to i2i Application." > 
+15:43:47.460 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login to i2i Application." parameterizedStepValue:"Login to i2i Application." > > 
+15:44:11.135 Plugin [Html Report] with pid [2868] has exited
+15:44:11.738 Specifications:	1 executed	0 passed	1 failed	0 skipped
+15:44:11.738 Scenarios:	2 executed	1 passed	1 failed	0 skipped
+15:44:11.738 
+Total time taken: 23.412s
+15:45:42.684 Plugin java is already installed.
+15:45:42.687 Plugin html-report is already installed.
+15:45:43.797 Checking updates...
+15:45:45.932 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login to i2i Application using menu." > 
+15:45:45.932 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login to i2i Application using menu." parameterizedStepValue:"Login to i2i Application using menu." > > 
+15:45:45.939 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Launch i2i Application." > 
+15:45:45.939 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Launch i2i Application." parameterizedStepValue:"Launch i2i Application." > > 
+15:45:45.940 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login to i2i Application." > 
+15:45:45.940 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login to i2i Application." parameterizedStepValue:"Login to i2i Application." > > 
+15:46:31.629 Plugin [Html Report] with pid [20324] has exited
+15:46:32.066 Specifications:	1 executed	1 passed	0 failed	0 skipped
+15:46:32.066 Scenarios:	2 executed	2 passed	0 failed	0 skipped
+15:46:32.066 
+Total time taken: 45.544s
+15:47:04.394 Plugin java is already installed.
+15:47:04.395 Plugin html-report is already installed.
+15:47:05.327 Checking updates...
+15:47:07.179 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login to i2i Application using menu." > 
+15:47:07.179 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login to i2i Application using menu." parameterizedStepValue:"Login to i2i Application using menu." > > 
+15:47:07.188 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Launch i2i Application." > 
+15:47:07.188 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Launch i2i Application." parameterizedStepValue:"Launch i2i Application." > > 
+15:47:07.188 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login to i2i Application." > 
+15:47:07.188 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login to i2i Application." parameterizedStepValue:"Login to i2i Application." > > 
+15:48:47.872 Plugin [Html Report] with pid [19956] has exited
+15:48:48.375 Specifications:	1 executed	1 passed	0 failed	0 skipped
+15:48:48.375 Scenarios:	2 executed	2 passed	0 failed	0 skipped
+15:48:48.375 
+Total time taken: 1m40.533s
+15:50:55.912 Plugin java is already installed.
+15:50:55.914 Plugin html-report is already installed.
+15:50:57.391 Checking updates...
+15:50:58.663 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login to i2i Application using menu." > 
+15:50:58.663 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login to i2i Application using menu." parameterizedStepValue:"Login to i2i Application using menu." > > 
+15:50:58.676 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Launch i2i Application." > 
+15:50:58.676 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Launch i2i Application." parameterizedStepValue:"Launch i2i Application." > > 
+15:50:58.676 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login to i2i Application." > 
+15:50:58.677 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login to i2i Application." parameterizedStepValue:"Login to i2i Application." > > 
+15:51:31.757 Plugin [Html Report] with pid [16772] has exited
+15:51:32.359 Specifications:	1 executed	0 passed	1 failed	0 skipped
+15:51:32.359 Scenarios:	2 executed	1 passed	1 failed	0 skipped
+15:51:32.359 
+Total time taken: 32.928s
+15:54:01.596 Plugin java is already installed.
+15:54:01.598 Plugin html-report is already installed.
+15:54:02.609 Checking updates...
+15:54:04.469 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login to i2i Application using menu." > 
+15:54:04.469 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login to i2i Application using menu." parameterizedStepValue:"Login to i2i Application using menu." > > 
+15:54:04.477 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Launch i2i Application." > 
+15:54:04.477 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Launch i2i Application." parameterizedStepValue:"Launch i2i Application." > > 
+15:54:04.477 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login to i2i Application." > 
+15:54:04.477 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login to i2i Application." parameterizedStepValue:"Login to i2i Application." > > 
+15:54:38.919 Plugin [Html Report] with pid [14312] has exited
+15:54:39.421 Specifications:	1 executed	1 passed	0 failed	0 skipped
+15:54:39.421 Scenarios:	2 executed	2 passed	0 failed	0 skipped
+15:54:39.421 
+Total time taken: 34.274s
+15:58:36.678 Unable to send analytics data, timed out
+15:58:37.679 Unable to send analytics data, timed out
+15:58:37.683 Plugin java is already installed.
+15:58:37.687 Plugin html-report is already installed.
+15:58:38.962 Checking updates...
+15:58:40.188 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login to i2i Application using menu." > 
+15:58:40.188 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login to i2i Application using menu." parameterizedStepValue:"Login to i2i Application using menu." > > 
+15:58:40.199 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Launch i2i Application." > 
+15:58:40.199 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Launch i2i Application." parameterizedStepValue:"Launch i2i Application." > > 
+15:58:40.200 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login to i2i Application." > 
+15:58:40.200 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login to i2i Application." parameterizedStepValue:"Login to i2i Application." > > 
+16:00:52.812 Plugin [Html Report] with pid [14688] has exited
+16:00:53.213 Specifications:	1 executed	1 passed	0 failed	0 skipped
+16:00:53.213 Scenarios:	2 executed	2 passed	0 failed	0 skipped
+16:00:53.213 
+Total time taken: 2m12.361s
+16:07:24.280 Plugin java is already installed.
+16:07:24.283 Plugin html-report is already installed.
+16:07:25.808 Checking updates...
+16:07:27.170 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login to i2i Application using menu." > 
+16:07:27.170 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login to i2i Application using menu." parameterizedStepValue:"Login to i2i Application using menu." > > 
+16:07:27.190 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Launch i2i Application." > 
+16:07:27.190 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Launch i2i Application." parameterizedStepValue:"Launch i2i Application." > > 
+16:07:27.191 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login to i2i Application." > 
+16:07:27.191 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login to i2i Application." parameterizedStepValue:"Login to i2i Application." > > 
+16:12:08.481 Plugin [Html Report] with pid [3388] has exited
+16:12:09.085 Specifications:	1 executed	0 passed	1 failed	0 skipped
+16:12:09.085 Scenarios:	2 executed	1 passed	1 failed	0 skipped
+16:12:09.085 
+Total time taken: 4m41.116s
+16:18:10.291 Unable to send analytics data, Post https://www.google-analytics.com/collect: http: server gave HTTP response to HTTPS client
+16:18:10.320 Unable to send analytics data, Post https://www.google-analytics.com/collect: http: server gave HTTP response to HTTPS client
+16:18:10.324 Plugin java is already installed.
+16:18:10.325 Plugin html-report is already installed.
+16:18:10.562 Checking updates...
+16:18:10.600 Failed to download html-report-install.json file: Get https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot,spectacle&o=windows&a=amd64: http: server gave HTTP response to HTTPS client
+16:18:10.633 Failed to download java-install.json file: Get https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot,spectacle&o=windows&a=amd64: http: server gave HTTP response to HTTPS client
+16:18:10.669 Failed to download screenshot-install.json file: Get https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot,spectacle&o=windows&a=amd64: http: server gave HTTP response to HTTPS client
+16:18:10.705 Failed to download spectacle-install.json file: Get https://downloads.gauge.org/plugin/spectacle?l=java&p=html-report,java,screenshot,spectacle&o=windows&a=amd64: http: server gave HTTP response to HTTPS client
+16:18:13.514 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login to i2i Application using menu." > 
+16:18:13.514 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login to i2i Application using menu." parameterizedStepValue:"Login to i2i Application using menu." > > 
+16:18:13.526 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Launch i2i Application." > 
+16:18:13.526 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Launch i2i Application." parameterizedStepValue:"Launch i2i Application." > > 
+16:18:13.526 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login to i2i Application." > 
+16:18:13.526 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login to i2i Application." parameterizedStepValue:"Login to i2i Application." > > 
+16:19:00.392 Plugin [Html Report] with pid [18328] has exited
+16:19:00.994 Specifications:	1 executed	0 passed	1 failed	0 skipped
+16:19:00.994 Scenarios:	2 executed	1 passed	1 failed	0 skipped
+16:19:00.994 
+Total time taken: 46.719s
+16:19:45.973 Plugin java is already installed.
+16:19:45.974 Plugin html-report is already installed.
+16:19:47.123 Checking updates...
+16:19:48.685 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login to i2i Application using menu." > 
+16:19:48.685 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login to i2i Application using menu." parameterizedStepValue:"Login to i2i Application using menu." > > 
+16:19:48.693 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Launch i2i Application." > 
+16:19:48.693 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Launch i2i Application." parameterizedStepValue:"Launch i2i Application." > > 
+16:19:48.694 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login to i2i Application." > 
+16:19:48.694 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login to i2i Application." parameterizedStepValue:"Login to i2i Application." > > 
+16:20:02.618 Plugin [Html Report] with pid [13316] has exited
+16:20:03.019 Specifications:	1 executed	1 passed	0 failed	0 skipped
+16:20:03.019 Scenarios:	2 executed	2 passed	0 failed	0 skipped
+16:20:03.019 
+Total time taken: 13.782s
+16:20:55.918 Plugin java is already installed.
+16:20:55.921 Plugin html-report is already installed.
+16:20:56.949 Checking updates...
+16:20:58.726 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login to i2i Application using menu." > 
+16:20:58.726 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login to i2i Application using menu." parameterizedStepValue:"Login to i2i Application using menu." > > 
+16:20:58.736 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Launch i2i Application." > 
+16:20:58.737 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Launch i2i Application." parameterizedStepValue:"Launch i2i Application." > > 
+16:20:58.737 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login to i2i Application." > 
+16:20:58.737 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login to i2i Application." parameterizedStepValue:"Login to i2i Application." > > 
+16:21:32.857 Plugin [Html Report] with pid [3252] has exited
+16:21:33.461 Specifications:	1 executed	0 passed	1 failed	0 skipped
+16:21:33.461 Scenarios:	2 executed	1 passed	1 failed	0 skipped
+16:21:33.461 
+Total time taken: 33.978s
+16:47:44.377 Plugin java is already installed.
+16:47:44.380 Plugin html-report is already installed.
+16:47:45.683 Checking updates...
+16:47:47.119 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login to i2i Application using menu." > 
+16:47:47.119 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login to i2i Application using menu." parameterizedStepValue:"Login to i2i Application using menu." > > 
+16:47:47.127 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Launch i2i Application." > 
+16:47:47.127 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Launch i2i Application." parameterizedStepValue:"Launch i2i Application." > > 
+16:47:47.127 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login to i2i Application." > 
+16:47:47.127 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login to i2i Application." parameterizedStepValue:"Login to i2i Application." > > 
+16:47:48.645 Plugin [Html Report] with pid [20540] has exited
+16:47:48.949 Specifications:	0 executed	0 passed	0 failed	0 skipped
+16:47:48.949 Scenarios:	0 executed	0 passed	0 failed	0 skipped
+16:47:48.949 
+Total time taken: 1.251s
+16:48:31.108 Unable to send analytics data, timed out
+16:48:32.111 Unable to send analytics data, timed out
+16:48:32.112 Plugin java is already installed.
+16:48:32.113 Plugin html-report is already installed.
+16:48:33.133 Checking updates...
+16:48:34.621 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login to i2i Application using menu." > 
+16:48:34.621 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login to i2i Application using menu." parameterizedStepValue:"Login to i2i Application using menu." > > 
+16:48:34.631 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Launch i2i Application." > 
+16:48:34.631 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Launch i2i Application." parameterizedStepValue:"Launch i2i Application." > > 
+16:48:34.631 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login to i2i Application." > 
+16:48:34.631 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login to i2i Application." parameterizedStepValue:"Login to i2i Application." > > 
+16:49:09.675 Plugin [Html Report] with pid [21776] has exited
+16:49:10.278 Specifications:	1 executed	0 passed	1 failed	0 skipped
+16:49:10.278 Scenarios:	2 executed	1 passed	1 failed	0 skipped
+16:49:10.278 
+Total time taken: 34.891s
+10:22:25.123 Plugin java is already installed.
+10:22:25.128 Plugin html-report is already installed.
+10:22:26.609 Checking updates...
+10:22:29.147 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login to i2i Application using menu." > 
+10:22:29.147 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login to i2i Application using menu." parameterizedStepValue:"Login to i2i Application using menu." > > 
+10:22:29.158 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Launch i2i Application." > 
+10:22:29.158 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Launch i2i Application." parameterizedStepValue:"Launch i2i Application." > > 
+10:22:29.158 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login to i2i Application." > 
+10:22:29.158 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login to i2i Application." parameterizedStepValue:"Login to i2i Application." > > 
+10:24:28.579 Plugin [Html Report] with pid [15436] has exited
+10:24:29.183 Specifications:	1 executed	0 passed	1 failed	0 skipped
+10:24:29.183 Scenarios:	2 executed	1 passed	1 failed	0 skipped
+10:24:29.183 
+Total time taken: 1m59.156s
+11:00:51.663 Unable to send analytics data, timed out
+11:00:52.677 Unable to send analytics data, timed out
+11:00:52.693 Plugin html-report is already installed.
+11:00:52.694 Plugin java is already installed.
+11:00:54.896 Checking updates...
+11:00:58.093 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login to i2i Application using menu." > 
+11:00:58.093 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login to i2i Application using menu." parameterizedStepValue:"Login to i2i Application using menu." > > 
+11:00:58.104 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Launch i2i Application." > 
+11:00:58.104 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Launch i2i Application." parameterizedStepValue:"Launch i2i Application." > > 
+11:00:58.105 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login to i2i Application." > 
+11:00:58.105 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login to i2i Application." parameterizedStepValue:"Login to i2i Application." > > 
+11:01:26.505 Plugin [Html Report] with pid [17308] has exited
+11:01:27.108 Specifications:	1 executed	0 passed	1 failed	0 skipped
+11:01:27.108 Scenarios:	2 executed	1 passed	1 failed	0 skipped
+11:01:27.108 
+Total time taken: 27.997s
+11:01:52.150 Plugin java is already installed.
+11:01:52.230 Plugin html-report is already installed.
+11:01:53.247 Checking updates...
+11:01:55.354 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login to i2i Application using menu." > 
+11:01:55.354 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login to i2i Application using menu." parameterizedStepValue:"Login to i2i Application using menu." > > 
+11:01:55.362 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Launch i2i Application." > 
+11:01:55.362 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Launch i2i Application." parameterizedStepValue:"Launch i2i Application." > > 
+11:01:55.362 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login to i2i Application." > 
+11:01:55.362 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login to i2i Application." parameterizedStepValue:"Login to i2i Application." > > 
+11:02:27.280 Plugin [Html Report] with pid [14932] has exited
+11:02:27.886 Specifications:	1 executed	0 passed	1 failed	0 skipped
+11:02:27.886 Scenarios:	2 executed	1 passed	1 failed	0 skipped
+11:02:27.886 
+Total time taken: 31.638s
+17:10:20.163 Plugin java is already installed.
+17:10:20.164 Plugin html-report is already installed.
+17:10:21.772 Checking updates...
+17:10:23.239 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login to i2i Application using menu." > 
+17:10:23.239 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login to i2i Application using menu." parameterizedStepValue:"Login to i2i Application using menu." > > 
+17:10:23.248 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Launch i2i Application." > 
+17:10:23.248 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Launch i2i Application." parameterizedStepValue:"Launch i2i Application." > > 
+17:10:23.249 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login to i2i Application." > 
+17:10:23.249 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login to i2i Application." parameterizedStepValue:"Login to i2i Application." > > 
+17:10:49.334 Plugin [Html Report] with pid [26580] has exited
+17:10:49.867 Specifications:	1 executed	1 passed	0 failed	0 skipped
+17:10:49.867 Scenarios:	2 executed	2 passed	0 failed	0 skipped
+17:10:49.867 
+Total time taken: 25.832s
+14:34:45.865 Unable to send analytics data, timed out
+14:34:46.149 Plugin java is already installed.
+14:34:46.150 Plugin html-report is already installed.
+14:34:47.279 Checking updates...
+14:34:51.136 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login to i2i Application using menu." > 
+14:34:51.137 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login to i2i Application using menu." parameterizedStepValue:"Login to i2i Application using menu." > > 
+14:34:51.150 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Launch i2i Application." > 
+14:34:51.150 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Launch i2i Application." parameterizedStepValue:"Launch i2i Application." > > 
+14:34:51.151 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login to i2i Application." > 
+14:34:51.151 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login to i2i Application." parameterizedStepValue:"Login to i2i Application." > > 
+14:35:06.322 Plugin [Html Report] with pid [14992] has exited
+14:35:06.732 Specifications:	1 executed	1 passed	0 failed	0 skipped
+14:35:06.732 Scenarios:	2 executed	2 passed	0 failed	0 skipped
+14:35:06.732 
+Total time taken: 14.513s
+15:13:35.899 Unable to send analytics data, timed out
+15:13:36.900 Unable to send analytics data, timed out
+15:13:36.907 Plugin html-report is already installed.
+15:13:36.910 Plugin java is already installed.
+15:13:38.195 Checking updates...
+15:13:39.542 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login to i2i Application using menu." > 
+15:13:39.542 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login to i2i Application using menu." parameterizedStepValue:"Login to i2i Application using menu." > > 
+15:13:39.550 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Launch i2i Application." > 
+15:13:39.550 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Launch i2i Application." parameterizedStepValue:"Launch i2i Application." > > 
+15:13:39.550 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login to i2i Application." > 
+15:13:39.550 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login to i2i Application." parameterizedStepValue:"Login to i2i Application." > > 
+15:20:22.302 Plugin java is already installed.
+15:20:22.307 Plugin html-report is already installed.
+15:20:23.655 Checking updates...
+15:20:25.388 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login to i2i Application using menu." > 
+15:20:25.388 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login to i2i Application using menu." parameterizedStepValue:"Login to i2i Application using menu." > > 
+15:20:25.399 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Launch i2i Application." > 
+15:20:25.399 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Launch i2i Application." parameterizedStepValue:"Launch i2i Application." > > 
+15:20:25.399 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login to i2i Application." > 
+15:20:25.399 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login to i2i Application." parameterizedStepValue:"Login to i2i Application." > > 
+15:20:30.804 Plugin [Html Report] with pid [1364] has exited
+15:20:31.423 Specifications:	1 executed	0 passed	1 failed	0 skipped
+15:20:31.423 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+15:20:31.423 
+Total time taken: 5.082s
+15:20:48.017 Plugin html-report is already installed.
+15:20:48.024 Plugin java is already installed.
+15:20:49.017 Checking updates...
+15:20:51.102 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login to i2i Application using menu." > 
+15:20:51.102 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login to i2i Application using menu." parameterizedStepValue:"Login to i2i Application using menu." > > 
+15:20:51.117 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Launch i2i Application." > 
+15:20:51.118 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Launch i2i Application." parameterizedStepValue:"Launch i2i Application." > > 
+15:20:51.120 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login to i2i Application." > 
+15:20:51.120 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login to i2i Application." parameterizedStepValue:"Login to i2i Application." > > 
+15:21:15.463 Plugin [Html Report] with pid [9608] has exited
+15:21:15.956 Specifications:	1 executed	1 passed	0 failed	0 skipped
+15:21:15.956 Scenarios:	2 executed	2 passed	0 failed	0 skipped
+15:21:15.956 
+Total time taken: 24.058s
+15:51:43.018 Unable to send analytics data, Post https://www.google-analytics.com/collect: http: server gave HTTP response to HTTPS client
+15:51:43.056 Unable to send analytics data, Post https://www.google-analytics.com/collect: http: server gave HTTP response to HTTPS client
+15:51:43.067 Plugin java is already installed.
+15:51:43.069 Plugin html-report is already installed.
+15:51:43.453 Checking updates...
+15:51:43.497 Failed to download html-report-install.json file: Get https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot,spectacle&o=windows&a=amd64: http: server gave HTTP response to HTTPS client
+15:51:43.542 Failed to download java-install.json file: Get https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot,spectacle&o=windows&a=amd64: http: server gave HTTP response to HTTPS client
+15:51:43.604 Failed to download screenshot-install.json file: Get https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot,spectacle&o=windows&a=amd64: http: server gave HTTP response to HTTPS client
+15:51:43.668 Failed to download spectacle-install.json file: Get https://downloads.gauge.org/plugin/spectacle?l=java&p=html-report,java,screenshot,spectacle&o=windows&a=amd64: http: server gave HTTP response to HTTPS client
+15:51:46.847 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login to i2i Application using menu." > 
+15:51:46.847 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login to i2i Application using menu." parameterizedStepValue:"Login to i2i Application using menu." > > 
+15:51:46.858 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Launch i2i Application." > 
+15:51:46.858 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Launch i2i Application." parameterizedStepValue:"Launch i2i Application." > > 
+15:51:46.858 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login to i2i Application." > 
+15:51:46.858 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login to i2i Application." parameterizedStepValue:"Login to i2i Application." > > 
+15:52:11.148 Plugin [Html Report] with pid [12324] has exited
+15:52:11.566 Specifications:	1 executed	1 passed	0 failed	0 skipped
+15:52:11.566 Scenarios:	2 executed	2 passed	0 failed	0 skipped
+15:52:11.566 
+Total time taken: 24.134s
+15:54:00.252 Plugin java is already installed.
+15:54:00.254 Plugin html-report is already installed.
+15:54:01.306 Checking updates...
+15:54:02.232 Runner connection error: Runner with pid 9376 quit unexpectedly(exit status 1).
+15:54:02.232 Error while killing runner: invalid argument
+15:54:02.238 Failed to start gauge API: Runner with pid 9376 quit unexpectedly(exit status 1).
+15:58:30.906 Plugin html-report is already installed.
+15:58:30.907 Plugin java is already installed.
+15:58:32.367 Checking updates...
+15:58:32.893 Runner connection error: Runner with pid 28224 quit unexpectedly(exit status 1).
+15:58:32.893 Error while killing runner: invalid argument
+15:58:32.894 Failed to start gauge API: Runner with pid 28224 quit unexpectedly(exit status 1).
+15:59:25.104 Plugin html-report is already installed.
+15:59:25.106 Plugin java is already installed.
+15:59:26.123 Checking updates...
+15:59:27.097 Runner connection error: Runner with pid 10668 quit unexpectedly(exit status 1).
+15:59:27.097 Error while killing runner: invalid argument
+15:59:27.098 Failed to start gauge API: Runner with pid 10668 quit unexpectedly(exit status 1).
+16:04:21.819 Plugin html-report is already installed.
+16:04:21.825 Plugin java is already installed.
+16:04:23.380 Checking updates...
+16:04:23.626 Runner connection error: Runner with pid 17728 quit unexpectedly(exit status 1).
+16:04:23.626 Error while killing runner: invalid argument
+16:04:23.627 Failed to start gauge API: Runner with pid 17728 quit unexpectedly(exit status 1).
+16:27:13.137 Plugin java is already installed.
+16:27:13.140 Plugin html-report is already installed.
+16:27:14.522 Checking updates...
+16:27:15.003 Runner connection error: Runner with pid 20516 quit unexpectedly(exit status 1).
+16:27:15.003 Error while killing runner: invalid argument
+16:27:15.005 Failed to start gauge API: Runner with pid 20516 quit unexpectedly(exit status 1).
+17:16:23.332 Plugin java is already installed.
+17:16:23.338 Plugin html-report is already installed.
+17:16:24.610 Checking updates...
+17:16:26.373 [ValidationError] C:\i2iSimplifyAutomation\specs\Launchi2iApplication.spec:4 Step implementation not found => 'Launch i2i Application.'
+17:16:26.374 [ValidationError] C:\i2iSimplifyAutomation\specs\Launchi2iApplication.spec:7 Step implementation not found => 'Login to i2i Application.'
+17:16:26.801 Plugin [Html Report] with pid [1608] has exited
+17:16:26.902 Specifications:	0 executed	0 passed	0 failed	1 skipped
+17:16:26.903 Scenarios:	0 executed	0 passed	0 failed	2 skipped
+17:16:26.903 
+Total time taken: 323ms
+17:17:11.672 Unable to send analytics data, timed out
+17:17:11.965 Plugin java is already installed.
+17:17:11.967 Plugin html-report is already installed.
+17:17:12.987 Checking updates...
+17:17:15.122 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login to i2i Application using menu." > 
+17:17:15.122 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login to i2i Application using menu." parameterizedStepValue:"Login to i2i Application using menu." > > 
+17:17:15.130 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Launch i2i Application." > 
+17:17:15.130 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Launch i2i Application." parameterizedStepValue:"Launch i2i Application." > > 
+17:17:15.131 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login to i2i Application." > 
+17:17:15.131 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login to i2i Application." parameterizedStepValue:"Login to i2i Application." > > 
+17:17:40.400 Plugin [Html Report] with pid [7164] has exited
+17:17:40.801 Specifications:	1 executed	1 passed	0 failed	0 skipped
+17:17:40.801 Scenarios:	2 executed	2 passed	0 failed	0 skipped
+17:17:40.801 
+Total time taken: 25.133s
+17:18:52.603 Plugin java is already installed.
+17:18:52.608 Plugin html-report is already installed.
+17:18:53.625 Checking updates...
+17:18:54.691 [ValidationError] C:\i2iSimplifyAutomation\specs\Launchi2iApplication.spec:4 Step implementation not found => 'Launch i2i Application.'
+17:18:54.692 [ValidationError] C:\i2iSimplifyAutomation\specs\Launchi2iApplication.spec:7 Step implementation not found => 'Login to i2i Application.'
+17:18:55.036 Plugin [Html Report] with pid [7680] has exited
+17:18:55.137 Specifications:	0 executed	0 passed	0 failed	1 skipped
+17:18:55.140 Scenarios:	0 executed	0 passed	0 failed	2 skipped
+17:18:55.141 
+Total time taken: 240ms
+17:19:46.270 Plugin java is already installed.
+17:19:46.271 Plugin html-report is already installed.
+17:19:47.256 Checking updates...
+17:19:48.499 [ValidationError] C:\i2iSimplifyAutomation\specs\Launchi2iApplication.spec:4 Step implementation not found => 'Launch i2i Application.'
+17:19:48.499 [ValidationError] C:\i2iSimplifyAutomation\specs\Launchi2iApplication.spec:7 Step implementation not found => 'Login to i2i Application.'
+17:19:48.839 Plugin [Html Report] with pid [17372] has exited
+17:19:49.040 Specifications:	0 executed	0 passed	0 failed	1 skipped
+17:19:49.043 Scenarios:	0 executed	0 passed	0 failed	2 skipped
+17:19:49.049 
+Total time taken: 237ms
+17:33:01.347 Plugin java is already installed.
+17:33:01.348 Plugin html-report is already installed.
+17:33:02.746 Checking updates...
+17:33:03.362 [ValidationError] C:\i2iSimplifyAutomation\specs\Launchi2iApplication.spec:4 Step implementation not found => 'Launch i2i Application.'
+17:33:03.363 [ValidationError] C:\i2iSimplifyAutomation\specs\Launchi2iApplication.spec:7 Step implementation not found => 'Login to i2i Application.'
+17:33:03.755 Plugin [Html Report] with pid [14328] has exited
+17:33:03.857 Specifications:	0 executed	0 passed	0 failed	1 skipped
+17:33:03.861 Scenarios:	0 executed	0 passed	0 failed	2 skipped
+17:33:03.867 
+Total time taken: 278ms
+17:35:02.731 Plugin java is already installed.
+17:35:02.734 Plugin html-report is already installed.
+17:35:03.841 Checking updates...
+17:35:04.953 [ValidationError] C:\i2iSimplifyAutomation\specs\Launchi2iApplication.spec:4 Step implementation not found => 'Launch i2i Application.'
+17:35:04.953 [ValidationError] C:\i2iSimplifyAutomation\specs\Launchi2iApplication.spec:7 Step implementation not found => 'Login to i2i Application.'
+17:35:05.282 Plugin [Html Report] with pid [16688] has exited
+17:35:05.491 Specifications:	0 executed	0 passed	0 failed	1 skipped
+17:35:05.492 Scenarios:	0 executed	0 passed	0 failed	2 skipped
+17:35:05.492 
+Total time taken: 227ms
+17:39:38.613 Plugin java is already installed.
+17:39:38.616 Plugin html-report is already installed.
+17:39:40.006 Checking updates...
+17:39:40.840 [ValidationError] C:\i2iSimplifyAutomation\specs\Launchi2iApplication.spec:4 Step implementation not found => 'Launch i2i Application.'
+17:39:40.841 [ValidationError] C:\i2iSimplifyAutomation\specs\Launchi2iApplication.spec:7 Step implementation not found => 'Login to i2i Application.'
+17:39:41.177 Plugin [Html Report] with pid [12708] has exited
+17:39:41.278 Specifications:	0 executed	0 passed	0 failed	1 skipped
+17:39:41.287 Scenarios:	0 executed	0 passed	0 failed	2 skipped
+17:39:41.287 
+Total time taken: 231ms
